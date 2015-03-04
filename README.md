@@ -7,7 +7,7 @@ There are object that grouped and grouped in the svg file so use it at your own 
 
 ## Designer
 
-[](mailto:ariestiyansyah.rizky@gmail.com) Rizky Ariestiyansyah
+Rizky Ariestiyansyah - <ariestiyansyah.rizky@gmail.com>
 
 ## LICENSE
 
